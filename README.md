@@ -16,3 +16,6 @@ Exaple linux -> generate 200x100 image.
 ```bash
 ./main 200 100
 ```
+
+1920x1080π image
+![img](https://user-images.githubusercontent.com/55856610/171863286-9cebcd4b-34e8-4cfe-b425-104e68ec62a0.png)
